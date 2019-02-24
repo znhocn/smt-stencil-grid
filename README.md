@@ -1,6 +1,6 @@
 # SMT-Stencil-Grid
 
-Design for cutting JLCPCB 1 piece 370×470mm SMT stencils to 6 piece 100*80mm SMT stencils.
+Design for cutting [JLCPCB](https://jlcpcb.com/) 1 piece 370×470mm SMT stencils to 6 piece 100*80mm SMT stencils.
 
 设计切割[嘉立创](https://www.sz-jlc.com) 37×47cm 规格大钢网成 100*80mm 的 6 片小钢网，方便手工焊接者使用，以及节省成本。
 
